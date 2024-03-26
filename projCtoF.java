@@ -81,16 +81,3 @@ public class projCtoF {
         window.setLocationRelativeTo(null);//to position the widow at the center of the page
     }
 }
-
-
-
-
-
-
-        
-// JComboBox<String>box = new JComboBox<>();
-// box.setBounds(100,350,100,30);
-// window.add(box);
-// box.addItem("Naruto");
-// box.addItem("Luffy");
-// box.setSelectedItem(null);
